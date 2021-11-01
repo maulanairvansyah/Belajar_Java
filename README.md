@@ -1,6 +1,7 @@
-## Getting Started
+## Materi Belajar Java
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+===Selamat Datang Di Catatan Maulana Irvansyah===
+Di Repository ini merupakan catatan untuk belajar java yang berisi materi-materi dasar mengenai java
 
 ## Folder Structure
 

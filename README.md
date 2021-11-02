@@ -6,15 +6,16 @@ Di Repository ini merupakan catatan untuk belajar java yang berisi materi-materi
 
 ## Folder Structure
 
-The workspace contains two folders by default, where:
+Berikut Folder Yang ada di dalam repository ini : 
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+- `src`: contoh source code materi pembelajaran java
+- `bin`: hasil source code yang sudah di compile dengan ekstensi .class
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
 
-## Dependency Management
+## Author :
+
+- 'Maulana Irvansyah'
+- Visit my blog : [www.maulnotes.com](https://www.maulnotes.com)
 
 The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).

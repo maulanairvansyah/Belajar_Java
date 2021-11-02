@@ -7,7 +7,10 @@
 package BelajarJava_Basic;
 import java.util.Scanner;
 
-
+/**
+ * Contoh Looping For Sederhana menggunakan For
+ */
+ 
 
 
 public class For {
@@ -17,7 +20,7 @@ public class For {
         System.out.println("Berikut Perulangan(Looping) Sederhana menggunakan For!");
 
         System.out.println("====================");
-        //Contoh Looping For Sederhana
+       
         for (int i=0;i<5;i++){
             System.out.println("Ini Looping ke -" + i);
         }

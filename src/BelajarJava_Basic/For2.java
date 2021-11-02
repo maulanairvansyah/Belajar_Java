@@ -7,6 +7,10 @@
 package BelajarJava_Basic;
 import java.util.Scanner;
 
+/**
+ * Looping menggunakan for berganda membuat segitiga setengah
+ * 
+ */
 
 
 public class For2 {

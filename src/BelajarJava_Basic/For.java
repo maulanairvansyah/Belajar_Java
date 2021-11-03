@@ -5,7 +5,7 @@
  * 
  */
 package BelajarJava_Basic;
-import java.util.Scanner;
+//import java.util.Scanner;
 
 /**
  * Contoh Looping For Sederhana menggunakan For

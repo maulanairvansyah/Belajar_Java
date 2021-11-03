@@ -1,4 +1,4 @@
-package BelajarJava_Basic;
+
 
 /**
  * 
@@ -12,6 +12,7 @@ package BelajarJava_Basic;
   * Melakukan perulangan dengan do while 
   * perulangan dilakukan jika sesuai dengan syarat yang di tentukan akhir
   */
+package BelajarJava_Basic;
 public class DoWhile {
     
     public static void main(String[] args){

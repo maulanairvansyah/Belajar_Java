@@ -1,3 +1,16 @@
+/**
+ * 
+ * @author Maulana Irvansyah
+ * @2021
+ * 
+ */
+
+
+ /**
+  * Melakukan perulangan dengan while 
+  * perulangan dilakukan jika sesuai dengan syarat yang di tentukan di awal
+  */
+
 package BelajarJava_Basic;
 
 public class While {

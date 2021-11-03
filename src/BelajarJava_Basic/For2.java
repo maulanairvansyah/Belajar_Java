@@ -4,18 +4,17 @@
  * @2021
  * 
  */
+
+ 
 package BelajarJava_Basic;
 import java.util.Scanner;
 
-/**
- * Looping menggunakan for berganda membuat segitiga setengah
- * 
- */
 
 
 public class For2 {
     public static void main(String[] args){
         Scanner Input = new Scanner(System.in);
+        
         System.out.print("Masukan Nilai j :");
 
         int j = Input.nextInt();
@@ -25,5 +24,6 @@ public class For2 {
             }
             System.out.println("");
         }
+        Input.close();
     }
 }

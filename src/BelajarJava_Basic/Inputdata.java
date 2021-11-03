@@ -4,19 +4,16 @@
  * @2021
  * 
  */
+
+ /**
+* Berikut contoh code untuk memasukan suatu String 
+* 
+*/
 package BelajarJava_Basic;
 import java.util.Scanner;
 
 
 public class Inputdata {
-
-
-    /**
-     * Berikut contoh code untuk memasukan suatu String 
-     * 
-     */
-
-
 
     public static void main(String[] args){
     Scanner Input = new Scanner(System.in);
@@ -25,6 +22,6 @@ public class Inputdata {
     String nama = Input.nextLine();
 
     System.out.println("Nama kamu adalah : " + nama);
-    
+    Input.close();
     }
 }
